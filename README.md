@@ -1,9 +1,9 @@
 
-# HBEFA based air pollution emission analysis
+# MATSim air pollution emission analysis based on HBEFA
 
 ### About this project
 
-This repository provides a tool to compute air pollution emissions based on HBEFA emission factors and simulated traffic with MATSim. The tool was tested with the MATSim Open Berlin model which is provided here: https://github.com/matsim-scenarios/matsim-berlin
+This repository provides a tool to compute air pollution emissions based on HBEFA (https://www.hbefa.net/) emission factors and simulated traffic with MATSim (https://www.matsim.org). The tool was tested with the MATSim Open Berlin model (release v5.4) which is provided here: https://github.com/matsim-scenarios/matsim-berlin.
 
 Currently, there are two versions of the MATSim Open Berlin model:
 
