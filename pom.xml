@@ -2,12 +2,12 @@
 	 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.github.matsim-scenarios</groupId>
-	<artifactId>matsim-berlin</artifactId>
-	<version>5.5</version>
+	<groupId>com.github.ikaddoura</groupId>
+	<artifactId>emissions-analysis</artifactId>
+	<version>1.0</version>
 
-	<name>MATSim Open Berlin scenario project</name>
-	<description>MATSim Open Berlin scenario project</description>
+	<name>MATSim emissions analysis based on HBEFA</name>
+	<description>MATSim emissions analysis based on HBEFA</description>
 
 	<properties>
 		<!--		<matsim.version>13.0-SNAPSHOT</matsim.version>-->
@@ -279,7 +279,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>org.matsim.gui.RunBerlinScenarioGUI</mainClass>
+							<mainClass>org.matsim.gui.RunGUI</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

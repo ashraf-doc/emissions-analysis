@@ -22,7 +22,7 @@ package org.matsim.gui;
 import org.matsim.analysis.RunOfflineAirPollutionAnalysis;
 import org.matsim.run.gui.Gui;
 
-public class RunBerlinScenarioGUI {
+public class RunGUI {
 
 	public static void main(String[] args) {
 		Gui.show("MATSim Emissions Analysis GUI for matsim-berlin", RunOfflineAirPollutionAnalysis.class);
